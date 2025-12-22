@@ -40,14 +40,19 @@ const About = () => {
               {/* Decorative Elements */}
               <div className="absolute inset-0 bg-gradient-to-br from-primary-500 to-accent-500 rounded-2xl blur-2xl opacity-20" />
               <div className="relative glass-card p-2 rounded-2xl">
-                <div className="w-full h-full bg-slate-800 rounded-xl flex items-center justify-center overflow-hidden">
-                  {/* Placeholder for profile photo */}
-                  <div className="text-center p-8">
+                <div className="w-full h-full bg-slate- rounded-xl flex items-center justify-center overflow-hidden">
+                  {
+                    <img 
+                      src="/src/assets/me.jpg" 
+                      alt="Marco Melgar" 
+                      className="w-full h-full object-cover rounded-xl"
+                    />
+                  }
+                  {/* <div className="text-center p-8">
                     <div className="w-48 h-48 mx-auto bg-gradient-to-br from-primary-500 to-accent-500 rounded-full flex items-center justify-center text-6xl font-bold text-white">
-                      MM
                     </div>
                     <p className="mt-4 text-slate-400 text-sm">Profile Photo Coming Soon</p>
-                  </div>
+                  </div> */}
                 </div>
               </div>
             </div>

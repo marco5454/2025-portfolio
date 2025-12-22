@@ -65,7 +65,7 @@ const Hero = () => {
             Freelance Full-Stack Developer
             <br />
             <span className="gradient-text">
-              Building Practical, Scalable Web Solutions
+              Scalable Web Solutions, Vibe-Built
             </span>
           </motion.h1>
 
