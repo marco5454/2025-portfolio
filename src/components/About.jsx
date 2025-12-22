@@ -104,19 +104,19 @@ const About = () => {
                     <svg className="w-5 h-5 text-primary-400 mr-2 mt-1 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
                       <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
                     </svg>
-                    Front-end Developer Experience
+                    Front-End Developer focused on building clean, responsive interfaces using modern web technologies, with a strong foundation ready for real-world projects.
                   </li>
                   <li className="flex items-start">
                     <svg className="w-5 h-5 text-primary-400 mr-2 mt-1 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
                       <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
                     </svg>
-                    Migration Systems Development
+                    Building and managing digital systems that support migrant domestic workers through ethical, human-centered workflows.
                   </li>
                   <li className="flex items-start">
                     <svg className="w-5 h-5 text-primary-400 mr-2 mt-1 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
                       <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
                     </svg>
-                    Ethical Tech Background
+                    Experience in Ethical Technology for Social Impact
                   </li>
                 </ul>
               </div>
