@@ -71,7 +71,7 @@ const About = () => {
                 variants={itemVariants}
                 className="text-4xl font-bold mb-4"
               >
-                Marco Melgar
+                Marco A. Melgar
               </motion.h3>
               <motion.p
                 variants={itemVariants}

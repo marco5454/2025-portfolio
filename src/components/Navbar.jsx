@@ -48,7 +48,7 @@ const Navbar = () => {
             className="text-2xl font-bold gradient-text"
             whileHover={{ scale: 1.05 }}
           >
-            Marco Melgar
+            M.M
           </motion.a>
 
           {/* Desktop Navigation */}
