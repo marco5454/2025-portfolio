@@ -122,14 +122,14 @@ const About = () => {
               </div>
             </motion.div>
 
-            <motion.div variants={itemVariants}>
+            {/* <motion.div variants={itemVariants}>
               <a
                 href="#contact"
                 className="inline-block px-6 py-3 bg-gradient-to-r from-primary-600 to-accent-600 rounded-lg text-white font-medium hover:shadow-lg hover:shadow-primary-500/50 transition-all duration-300"
               >
                 Download Resume
               </a>
-            </motion.div>
+            </motion.div> */}
           </motion.div>
         </motion.div>
       </div>
